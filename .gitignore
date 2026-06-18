@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+bin/
+obj/
+
+# Логи и временные файлы
+*.log
+*.tmp
+.DS_Store
